@@ -36,9 +36,9 @@ public class splashscreen extends AppCompatActivity {
             @Override
             public void run() {
                 Intent intent=new Intent(splashscreen.this, MainActivity.class);
-                startActivity(Intent);
+                startActivity(intent);
                 finish();
             }
-        },splash_timer)
+        },splash_timer);
     }
 }

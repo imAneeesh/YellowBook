@@ -1,0 +1,60 @@
+{
+  "education": [
+    {
+      "name": "edu 1",
+      "address": "address 1",
+      "phone": "987654321"
+    },
+    {
+      "name": "edu 2",
+      "address": "address 2",
+      "phone": "987654321"
+    },
+    {
+      "name": "edu 3",
+      "address": "address 3",
+      "phone": "987654321"
+    },
+    {
+      "name": "edu 4",
+      "address": "address 4",
+      "phone": "987654321"
+    }
+  ],
+  "hospital": [
+    {
+      "name": "Puttur City Hospital",
+      "address": "APMC ROAD, Puttur",
+      "phone": "082512 37781"
+    },
+    {
+      "name": "Adarsha Hospital",
+      "address": "APMC ROAD, Puttur",
+      "phone": "082512 35065"
+    },
+    {
+      "name": "Mahaveer Medical Centre",
+      "address": "Main Road, Bolwar, Puttur",
+      "phone": "082512 34282"
+    },
+    {
+      "name": "Pragati Multi Speciality Hospital",
+      "address": "Bolwar, Puttur",
+      "phone": "08251231026"
+    }
+  ],
+  "general": [
+    {
+      "name": "Mangal Store, Puttur",
+      "address": "Nehru Nagar, Puttur",
+      "phone": "094810 23990"
+    },
+    {
+      "name": "More Supermarket",
+      "address": "Bolwar, Puttur",
+      "phone": "097439 91450"
+    }
+  ]
+
+}
+

@@ -14,10 +14,21 @@
         android:theme="@style/Theme.YellowBook"
         tools:targetApi="31">
         <activity
-            android:name=".splashscreen"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".contacts.education"
+            android:exported="false" />
+        <activity
+            android:name=".contacts.hospital"
+            android:exported="false" />
+
+        <activity
+            android:name=".contacts.shops"
+            android:exported="false" />
+
+        <activity
+            android:name=".launch.splashscreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
